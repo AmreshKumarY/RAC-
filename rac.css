@@ -1,0 +1,58 @@
+body{
+    background-color:#fff;
+}
+h1{
+    color:rgb(116, 21, 224);
+}
+h3{
+    color: green;
+}
+.Bar{
+    overflow: hidden;
+    background-color: #333;
+
+}
+.Bar a{
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+h2{
+    color: #f2f2f2;
+}
+.Bar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .Bar a.active {
+    background-color: #04AA6D;
+    color:white;
+    
+  }
+  .bbar{
+      overflow: hidden;
+      background-color: rgb(12, 10, 10);
+      
+  }
+
+  .bbar a{
+    float: center;
+    color:#f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+  }
+  .bbar a:hover{
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
+  
